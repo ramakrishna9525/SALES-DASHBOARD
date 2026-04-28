@@ -27,3 +27,7 @@ This project is used to monitor sales performance, identify trends, improve deci
 <img width="1600" height="599" alt="WhatsApp Image 2026-04-28 at 6 50 29 PM" src="https://github.com/user-attachments/assets/4a61002e-dd4b-4f19-9977-e1484f521998" />
 <img width="1600" height="656" alt="WhatsApp Image 2026-04-28 at 6 49 41 PM" src="https://github.com/user-attachments/assets/6e124dcb-0836-49d3-bf04-a8e43ad947b0" />
 for detailed report ---> https://drive.google.com/file/d/1zdztyLpAKXj4aK7Y84pWMLiAM5GuCItu/view?usp=sharing
+
+
+
+if you want to access the sheet then click here --->   https://docs.google.com/spreadsheets/d/1UuztlYpQNvrSgeqVOvNuZoRE7DaTgQUS/edit?usp=sharing&ouid=102726064999769906831&rtpof=true&sd=true
